@@ -34,7 +34,6 @@ https://github.com/wilsonfreitas/awesome-quant
 
 https://github.com/hudson-and-thames/a-practitioners-guide-to-the-ONC-algorithm
  `a-practitioners-guide-to-the-ONC-algorithm` - 专业算法指南
-
 定位： 针对特定算法的专业工具包与实践指南。
 
 核心内容：

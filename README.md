@@ -1,4 +1,5 @@
 https://github.com/sindresorhus/awesome
+《Awesome》是一个“awesome-*”系列资源的终极合集列表
 这是一个名为 “Awesome” 的系列项目的“始祖”和“总目录”，专门收集各类高质量的学习资源和工具列表。
 1.  核心内容：
      它本身是一个“列表的列表”。主仓库并不直接存放具体的技术教程，而是分类整理和链接了成千上万个其他“Awesome-XXX”主题的列表。

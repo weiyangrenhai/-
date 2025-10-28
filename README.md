@@ -34,10 +34,13 @@ https://github.com/wilsonfreitas/awesome-quant
 
 https://github.com/hudson-and-thames/a-practitioners-guide-to-the-ONC-algorithm
  `a-practitioners-guide-to-the-ONC-algorithm` - 专业算法指南
+
 定位： 针对特定算法的专业工具包与实践指南。
+
 核心内容：
     一个具体的代码库和研究笔记，专注于实现和解释“ONC”等专业量化算法。
     通常包含可直接运行的Python代码、Jupyter Notebook教程和深入的理论说明。
+
 特点与用途：
     专业深入：不再是大而全的列表，而是对单一主题的深度剖析。
     即拿即用：提供可直接用于研究或交易的代码。

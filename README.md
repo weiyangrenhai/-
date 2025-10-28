@@ -32,7 +32,7 @@ https://github.com/wilsonfreitas/awesome-quant
   入门神器：是初学者系统了解量化领域、快速找到所需工具的最佳起点。
 
 
-https://github.com/hudson-and-thames/a-practitioners-guide-to-the-ONC-algorithm
+
  `a-practitioners-guide-to-the-ONC-algorithm` - 专业算法指南
 
 定位： 针对特定算法的专业工具包与实践指南。

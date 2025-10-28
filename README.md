@@ -16,7 +16,7 @@ https://github.com/sindresorhus/awesome
     节省时间：它为你在浩瀚的网络信息中筛选出了精华部分，让你能快速找到一个领域最好的学习资料、库和工具，无需自己盲目搜索。
 
 
-
+https://github.com/wilsonfreitas/awesome-quant 
  `awesome-quant` - 量化资源大全
 
 定： 量化金融领域的资源导航站或精品目录。
@@ -31,7 +31,7 @@ https://github.com/sindresorhus/awesome
   入门神器：是初学者系统了解量化领域、快速找到所需工具的最佳起点。
 
 
-
+https://github.com/hudson-and-thames/a-practitioners-guide-to-the-ONC-algorithm
  `a-practitioners-guide-to-the-ONC-algorithm` - 专业算法指南
 
 定位： 针对特定算法的专业工具包与实践指南。
